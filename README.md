@@ -42,6 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/40e6f5fa-a4f3-4c0f-a66a-e9981c4505a1)
 
 
 
